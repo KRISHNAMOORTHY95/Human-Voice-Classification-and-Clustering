@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
-pip install joblib
+pip show joblib
 import librosa
 import io
 from pathlib import Path
