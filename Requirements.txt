@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+librosa
+matplotlib
+seaborn
+joblib
+soundfile
+xgboost
+lightgbm
+catboost
+sqlite3
